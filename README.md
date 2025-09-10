@@ -69,7 +69,7 @@ This software uses the VST3 Software Development Kit (SDK) by Steinberg Media Te
 
 VST is a trademark of Steinberg Media Technologies GmbH.
 The VST3 SDK is licensed under the Steinberg VST3 License
-VST is a trademark owned by Steinberg Media Technologies GmbH, which is based in Hamburg, Germany. The trademark was filed with the EUIPO on January 28, 2019, and covers downloadable and recorded computer plugin interface software for audio processing, transmission, recording, and playback. Additionally, VST is recognized as a registered trademark in various countries, including the U.S.. 
+VST is a trademark owned by Steinberg Media Technologies GmbH, which is based in Hamburg, Germany. The trademark was filed with the EUIPO on January 28, 2019, and covers downloadable and recorded computer plugin interface software for audio processing, transmission, recording, and playback. Additionally, VST is recognized as a registered trademark in various countries, including the U.S.A..  I am not located in Europe or the U.S.A.
 Personally I may use the word VST to mean any windows based plugin and usage may not be to describe any broad catagory of computer
 plugins for transmission, recording and playback - I may not in fact mean Steinberg VST plugins but rather plugins that use Steinbergs
 development kits OR not as vst is now out of patent for the original patents in the 1990s in places with patent expiry periods. Not
