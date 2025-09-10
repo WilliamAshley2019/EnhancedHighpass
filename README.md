@@ -1,4 +1,4 @@
-This plugin is provided GPLv3 with exclusion of any sourcecode that was drawn from Airwindows Highpass.cpp or Highpass.h see below for more details.
+This plugin is provided GPLv3 with exclusion of any sourcecode that was drawn from Airwindows Highpass.cpp or Highpass.h see below for more details. EnhancedHighpass is a free and open-source VST3 plugin built with JUCE 8, designed by William Ashley [(WilliamAshley.Music)](https://12264447666william.wixsite.com/williamashley)  — a hobbyist music producer, sound designer, and plugin developer specializing in computer and electronic music production.
 
 # EnhancedHighpass
 
@@ -14,9 +14,7 @@ clarity and polish.
 - **Gain Control**: -24 dB to +24 dB (default: 0 dB) to adjust output level, inspired by Airwindows' **XLowpass**.
 - **Dry/Wet Mix**: 0–100% (default: 100%) for blending filtered and unfiltered signals, perfect for parallel processing in trance mixes.
 - **Dithering**: Airwindows-style dithering to reduce quantization noise, ensuring clean high-frequency output.
-- **UI**: Modern interface with labeled knobs ("Cutoff", "Resonance", "Gain", "Dry/Wet") for intuitive control, styled like **LushAlpha**.
-- **Optimized for Trance**: Default settings tailored for trance EDM, providing clear, sparkling highs and precise low-end control.
-
+- **UI**: Modern interface with labeled knobs ("Cutoff", "Resonance", "Gain", "Dry/Wet") for intuitive control 
 ## Installation
  **Prerequisites**:
    - DAW supporting VST3 plugins (e.g., FL Studio (tested), or likely any other VST3 suppurting daw - it was tested on windows 11).
