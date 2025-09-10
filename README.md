@@ -73,7 +73,7 @@ VST is a trademark owned by Steinberg Media Technologies GmbH, which is based in
 Personally I may use the word VST to mean any windows based plugin and usage may not be to describe any broad catagory of computer
 plugins for transmission, recording and playback - I may not in fact mean Steinberg VST plugins but rather plugins that use Steinbergs
 development kits OR not as vst is now out of patent for the original patents in the 1990s in places with patent expiry periods. Not
-all plugins are developed with VST SDK kids but many are in one form or another, so just to clarify if I use the term VST it may be
+all plugins are developed with VST SDK kits but many are in one form or another, so just to clarify if I use the term VST it may be
 synonomous to the world audio plugin, it is just a personal lexicon thing  for me, as I don't generally refer to Steinberg VST SDK outside this specific context of license notices it would not lead to confusion if not for the shoehorning of the term VST to refer 
 specifically to a Steinberg product as Steinberg and many other companies sell vst's but they are not Steinbergs products in general the vast majority are not which could lead to confusion as I personally consider VST to be a standard not a product.
 
