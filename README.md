@@ -62,4 +62,27 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+Third-Party License Notices
+Steinberg VST3 SDK
+
+This software uses the VST3 Software Development Kit (SDK) by Steinberg Media Technologies GmbH.
+
+VST is a trademark of Steinberg Media Technologies GmbH.
+The VST3 SDK is licensed under the Steinberg VST3 License
+VST is a trademark owned by Steinberg Media Technologies GmbH, which is based in Hamburg, Germany. The trademark was filed with the EUIPO on January 28, 2019, and covers downloadable and recorded computer plugin interface software for audio processing, transmission, recording, and playback. Additionally, VST is recognized as a registered trademark in various countries, including the U.S.. 
+Personally I may use the word VST to mean any windows based plugin and usage may not be to describe any broad catagory of computer
+plugins for transmission, recording and playback - I may not in fact mean Steinberg VST plugins but rather plugins that use Steinbergs
+development kits OR not as vst is now out of patent for the original patents in the 1990s in places with patent expiry periods. Not
+all plugins are developed with VST SDK kids but many are in one form or another, so just to clarify if I use the term VST it may be
+synonomous to the world audio plugin, it is just a personal lexicon thing  for me, as I don't generally refer to Steinberg VST SDK outside this specific context of license notices it would not lead to confusion if not for the shoehorning of the term VST to refer 
+specifically to a Steinberg product as Steinberg and many other companies sell vst's but they are not Steinbergs products in general the vast majority are not which could lead to confusion as I personally consider VST to be a standard not a product.
+
+JUCE 8 Framework
+
+This project uses the JUCE framework, an open-source cross-platform C++ application framework for audio and GUI development.
+
+Copyright © 2025 Raw Material Software Limited.
+JUCE is licensed under the GPL v3 (free and open-source) or a commercial license for closed-source use.
+See JUCE License
+ for details.
 
