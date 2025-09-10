@@ -80,9 +80,6 @@ specifically to a Steinberg product as Steinberg and many other companies sell v
 JUCE 8 Framework
 
 This project uses the JUCE framework, an open-source cross-platform C++ application framework for audio and GUI development.
-
-Copyright © 2025 Raw Material Software Limited.
-JUCE is licensed under the GPL v3 (free and open-source) or a commercial license for closed-source use.
-See JUCE License
- for details.
+ JUCE is licensed under the GPL v3 (free and open-source) or a commercial license for closed-source use.
+See JUCE License  for details.
 
