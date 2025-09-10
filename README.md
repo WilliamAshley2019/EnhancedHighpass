@@ -18,13 +18,12 @@ clarity and polish.
 - **Optimized for Trance**: Default settings tailored for trance EDM, providing clear, sparkling highs and precise low-end control.
 
 ## Installation
-1. **Prerequisites**:
-   - DAW supporting VST3 plugins (e.g., FL Studio (tested), Ableton Live).
+ **Prerequisites**:
+   - DAW supporting VST3 plugins (e.g., FL Studio (tested), or likely any other VST3 suppurting daw - it was tested on windows 11).
    - Windows (Visual Studio 2022 recommended for building).
-   - JUCE 8 framework installed (`C:\Development\JUCE`).
+   - JUCE 8 framework installed - Juce 8.09 was used.
 
-2. **Building**: The four JUCE files are included in the main directory. Start a plugin basics project with the addition
-3. of the dsp module to build.
+ **Building**: The four JUCE files are included in the main directory. Start a plugin basics project with the addition of the dsp module to build.
 
 ## Usage
 - **Cutoff**: Adjusts the highpass cutoff frequency (20 Hz–20 kHz). Set around 200 Hz to remove sub-bass rumble.
