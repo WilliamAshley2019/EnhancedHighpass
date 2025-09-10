@@ -1,4 +1,4 @@
-This plugin is provided GPLv3 with exclusion of any sourcecode that was drawn from Airwindows Highpass.cpp or Highpass.h see below for more details. EnhancedHighpass is a free and open-source VST3 plugin built with JUCE 8, designed by William Ashley [(WilliamAshley.Music)](https://12264447666william.wixsite.com/williamashley)  — a hobbyist music producer, sound designer, and plugin developer specializing in computer and electronic music production.
+This plugin is provided GPLv3 with exclusion of any sourcecode that was drawn from Airwindows Highpass.cpp or Highpass.h see below for more details. EnhancedHighpass is a free and open-source VST3 plugin built with JUCE 8, designed by William Ashley https://12264447666william.wixsite.com/williamashley  — a hobbyist music producer, sound designer, and plugin developer specializing in computer and electronic music production.
 
 # EnhancedHighpass
 
