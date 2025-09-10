@@ -1,3 +1,5 @@
+This plugin is provided GPLv3 with exclusion of any sourcecode that was drawn from Airwindows Highpass.cpp or Highpass.h see below for more details.
+
 # EnhancedHighpass
 
 **EnhancedHighpass** is a VST3 highpass filter plugin built with JUCE 8, designed for trance EDM production. It features a clean, high-quality
